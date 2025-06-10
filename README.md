@@ -9,6 +9,8 @@ Pour installer l’environnement nécessaire pour faire fonctionner cet outil, v
 
 Ensuite, à chaque fois que vous voulez utiliser Nikola, il vous faudra commencer par réactiver l’environnement virtuel dans votre terminal.
 
+Note : il peut être bon de recréer votre environnement virtuel quand vous installez une nouvelle version de Python, pour rester à jour. Il peut également être intéressant de mettre à jour régulièrement votre version de Nikola.
+
 Pour éditer les fichiers, un éditeur de texte basique suffit, mais vous pouvez évidemment utiliser un environnement de développement si vous préférez.
 
 
@@ -36,7 +38,7 @@ Toutes les pages sont dans le dossier `pages`. Tous les articles de blog sont da
 
 ### Ajouter une nouvelle page
 
-Utilisez la commande `nikola new_page`. Remplissez tous les champs demandés dans le terminal (sans vous prendre la tête, tout sera modifiable ultérieurement). Pensez à traduire la page nouvellement créée (voir ci-dessous).
+Utilisez la commande `nikola new_page`. Remplissez tous les champs demandés dans le terminal (sans vous prendre la tête, tout sera modifiable ultérieurement). Pensez à traduire la page nouvellement créée (voir ci-dessous). Ensuite, rajoutez les pages en français et en anglais dans le menu de navigation dans le fichier `conf.py`.
 
 ### Ajouter un article de blog
 
