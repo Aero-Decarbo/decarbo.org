@@ -158,7 +158,7 @@
 'render_taxonomies:output/rss.xml', (236544, 144)
 'copy_assets:output/assets/css/rst.css', (237056, 425)
 'scale_images:output/images/COUV-RESEAUX_Page_1-1.jpg', (237568, 244)
-'sitemap:output/sitemapindex.xml', (238080, 254)
+'sitemap:output/sitemapindex.xml', (238080, 255)
 'render_posts:cache/pages/lettres.html', (238592, 349)
 'render_pages:output/en/index.html', (239104, 4653)
 'robots_file:output/robots.txt', (244224, 136)
