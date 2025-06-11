@@ -111,8 +111,10 @@ The objectives of this report
 
 This work was carried out with the help of The Shift Project's volunteer association, the Shifters, and the CPLC (Citizens for Climate). It consists of a full report, a summary and a methodological note.
 
-Technical contacts:
-*******************
+Technical contacts (sorted by preference order):
+************************************************
+| **Aéro Décarbo association** 
+| `contact@decarbo.org <mailto:contact@decarbo.org>`_
 
 | **Olivier Del Bucchia**
 | Report Project Manager

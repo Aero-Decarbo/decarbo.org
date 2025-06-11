@@ -113,15 +113,17 @@ Les objectifs de ce rapport
 
 Ce travail a été réalisé avec l’aide des Shifters, association des bénévoles de The Shift Project, ainsi que du CPLC (Citoyens pour le Climat). Il est composé d’un rapport complet, d’une synthèse et d’une note méthodologique.
 
-Contacts techniques :
-*********************
+Contacts techniques (par ordre de préférence) :
+***********************************************
+| **Association Aéro Décarbo** 
+| `contact@decarbo.org <mailto:contact@decarbo.org>`_
 
 | **Olivier Del Bucchia** 
 | Chef de projet du rapport
 | Co-fondateur de AÉRO DÉCARBO 
 | `olivier.del-bucchia@decarbo.org <mailto:olivier.del-bucchia@decarbo.org>`_
 | 
-| **Grégoire carpentier**
+| **Grégoire Carpentier**
 | Chef de projet du rapport
 | Co-fondateur AÉRO DÉCARBO
 | `gregoire.carpentier@theshiftproject.org <mailto:gregoire.carpentier@theshiftproject.org>`_
