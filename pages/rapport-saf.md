@@ -18,7 +18,6 @@ Le nouveau projet du volet aéro de l’association : un rapport dédié à l’
 # Calendrier d’avancement :
 
 - Depuis 2024 : travaux de bénévoles et d’un salarié
-- Fin avril 2025 : présentation à Jean-Marc Jancovici 
 - 10 juin 2025 : webinaire de présentation du rapport intermédiaire
 - Fin 2025 : parution du rapport final
 

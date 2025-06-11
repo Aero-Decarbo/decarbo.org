@@ -18,7 +18,6 @@ The new project of the association's aviation section: a report dedicated to stu
 # Progress schedule:
 
 - Since 2024: work by volunteers and one employee
-- End of April 2025: presentation to Jean-Marc Jancovici 
 - June 10, 2025: webinar presenting the interim report
 - End 2025: publication of final report
 
