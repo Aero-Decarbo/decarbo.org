@@ -117,7 +117,7 @@ Contacts techniques (par ordre de préférence) :
 ***********************************************
 | **Association Aéro Décarbo** 
 | `contact@decarbo.org <mailto:contact@decarbo.org>`_
-
+|
 | **Olivier Del Bucchia** 
 | Chef de projet du rapport
 | Co-fondateur de AÉRO DÉCARBO 

@@ -115,7 +115,7 @@ Technical contacts (sorted by preference order):
 ************************************************
 | **Aéro Décarbo association** 
 | `contact@decarbo.org <mailto:contact@decarbo.org>`_
-
+|
 | **Olivier Del Bucchia**
 | Report Project Manager
 | Co-founder of AÉRO DÉCARBO
