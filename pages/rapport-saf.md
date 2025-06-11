@@ -36,4 +36,4 @@ Sans surprise, du moins lorsque l’on connaît le [rapport PVE2050](link://slug
 
 # Téléchargement
 
-Vous trouverez le rapport intermédiaire [ici](https://docs.google.com/document/d/1kjEUl2obS-vyNsvoaWX3l9Eb6Bw_Hy7cZHi8gGTYyP4/edit?tab=t.0) !
+Vous trouverez le rapport intermédiaire [ici](https://docs.google.com/document/d/1uaS_zla9CTanrC9T9EcVJ-kO5DHmrNZf_2glAlnQI5I/edit?usp=sharing) !

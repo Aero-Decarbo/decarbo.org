@@ -35,4 +35,4 @@ Unsurprisingly, at least when one is familiar with the [PVE2050 report](link://s
 
 # Download
 
-You will find the interim report (in French) [here](https://docs.google.com/document/d/1kjEUl2obS-vyNsvoaWX3l9Eb6Bw_Hy7cZHi8gGTYyP4/edit?tab=t.0)!
+You will find the interim report (in French) [here](https://docs.google.com/document/d/1uaS_zla9CTanrC9T9EcVJ-kO5DHmrNZf_2glAlnQI5I/edit?usp=sharing)!
