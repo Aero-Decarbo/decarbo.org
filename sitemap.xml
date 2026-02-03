@@ -7,17 +7,22 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://decarbo.org/</loc>
-  <lastmod>2025-06-10T21:46:00Z</lastmod>
+  <lastmod>2026-02-03T10:20:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://decarbo.org/en/" />
  </url>
  <url>
+  <loc>https://decarbo.org/aider.html</loc>
+  <lastmod>2026-02-03T11:10:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://decarbo.org/en/help-us.html" />
+ </url>
+ <url>
   <loc>https://decarbo.org/amis.html</loc>
-  <lastmod>2025-06-10T21:46:00Z</lastmod>
+  <lastmod>2026-02-03T11:10:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://decarbo.org/en/friends.html" />
  </url>
  <url>
   <loc>https://decarbo.org/archive.html</loc>
-  <lastmod>2025-06-10T21:46:00Z</lastmod>
+  <lastmod>2026-02-03T11:10:00Z</lastmod>
  </url>
  <url>
   <loc>https://decarbo.org/blog/</loc>
@@ -29,16 +34,16 @@
  </url>
  <url>
   <loc>https://decarbo.org/contributions.html</loc>
-  <lastmod>2025-06-10T21:46:00Z</lastmod>
+  <lastmod>2026-02-03T11:10:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://decarbo.org/en/contributions.html" />
  </url>
  <url>
   <loc>https://decarbo.org/en/</loc>
-  <lastmod>2025-06-10T21:46:00Z</lastmod>
+  <lastmod>2026-02-03T10:20:00Z</lastmod>
  </url>
  <url>
   <loc>https://decarbo.org/en/archive.html</loc>
-  <lastmod>2025-06-10T21:46:00Z</lastmod>
+  <lastmod>2026-02-03T11:10:00Z</lastmod>
  </url>
  <url>
   <loc>https://decarbo.org/en/blog/</loc>
@@ -50,27 +55,31 @@
  </url>
  <url>
   <loc>https://decarbo.org/en/commitment.html</loc>
-  <lastmod>2025-06-10T21:46:00Z</lastmod>
+  <lastmod>2026-02-03T11:10:00Z</lastmod>
  </url>
  <url>
   <loc>https://decarbo.org/en/contributions.html</loc>
-  <lastmod>2025-06-10T21:46:00Z</lastmod>
+  <lastmod>2026-02-03T11:10:00Z</lastmod>
  </url>
  <url>
   <loc>https://decarbo.org/en/expertise.html</loc>
-  <lastmod>2025-06-10T21:46:00Z</lastmod>
+  <lastmod>2026-02-03T11:10:00Z</lastmod>
  </url>
  <url>
   <loc>https://decarbo.org/en/friends.html</loc>
-  <lastmod>2025-06-10T21:46:00Z</lastmod>
+  <lastmod>2026-02-03T11:10:00Z</lastmod>
  </url>
  <url>
   <loc>https://decarbo.org/en/galleries/</loc>
   <lastmod>2022-03-09T16:24:00Z</lastmod>
  </url>
  <url>
+  <loc>https://decarbo.org/en/help-us.html</loc>
+  <lastmod>2026-02-03T11:10:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://decarbo.org/en/history.html</loc>
-  <lastmod>2025-06-10T21:46:00Z</lastmod>
+  <lastmod>2026-02-03T11:10:00Z</lastmod>
  </url>
  <url>
   <loc>https://decarbo.org/en/join.html</loc>
@@ -78,57 +87,57 @@
  </url>
  <url>
   <loc>https://decarbo.org/en/legal-mentions.html</loc>
-  <lastmod>2025-06-10T21:46:00Z</lastmod>
+  <lastmod>2026-02-03T11:10:00Z</lastmod>
  </url>
  <url>
   <loc>https://decarbo.org/en/letters.html</loc>
-  <lastmod>2025-06-10T21:46:00Z</lastmod>
+  <lastmod>2026-02-03T11:10:00Z</lastmod>
  </url>
  <url>
   <loc>https://decarbo.org/en/media.html</loc>
-  <lastmod>2025-06-10T21:46:00Z</lastmod>
+  <lastmod>2026-02-03T11:10:00Z</lastmod>
  </url>
  <url>
   <loc>https://decarbo.org/en/pve2050.html</loc>
-  <lastmod>2025-06-11T08:08:00Z</lastmod>
+  <lastmod>2026-02-03T11:10:00Z</lastmod>
  </url>
  <url>
   <loc>https://decarbo.org/en/saf-report.html</loc>
-  <lastmod>2025-06-11T11:41:00Z</lastmod>
+  <lastmod>2026-02-03T11:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://decarbo.org/en/spatial.html</loc>
-  <lastmod>2025-06-10T21:46:00Z</lastmod>
+  <lastmod>2026-02-03T11:10:00Z</lastmod>
  </url>
  <url>
   <loc>https://decarbo.org/en/sundry.html</loc>
-  <lastmod>2025-06-10T21:46:00Z</lastmod>
+  <lastmod>2026-02-03T11:10:00Z</lastmod>
  </url>
  <url>
   <loc>https://decarbo.org/en/team.html</loc>
-  <lastmod>2025-06-10T21:46:00Z</lastmod>
+  <lastmod>2026-02-03T11:10:00Z</lastmod>
  </url>
  <url>
   <loc>https://decarbo.org/en/values.html</loc>
-  <lastmod>2025-06-10T21:46:00Z</lastmod>
+  <lastmod>2026-02-03T11:10:00Z</lastmod>
  </url>
  <url>
   <loc>https://decarbo.org/en/voir_ailleurs.html</loc>
-  <lastmod>2025-06-10T21:46:00Z</lastmod>
+  <lastmod>2026-02-03T11:10:00Z</lastmod>
  </url>
  <url>
   <loc>https://decarbo.org/engagement.html</loc>
-  <lastmod>2025-06-10T21:46:00Z</lastmod>
+  <lastmod>2026-02-03T11:10:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://decarbo.org/en/commitment.html" />
  </url>
  <url>
   <loc>https://decarbo.org/equipe.html</loc>
-  <lastmod>2025-06-10T21:46:00Z</lastmod>
+  <lastmod>2026-02-03T11:10:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://decarbo.org/en/team.html" />
  </url>
  <url>
   <loc>https://decarbo.org/expertise.html</loc>
-  <lastmod>2025-06-10T21:46:00Z</lastmod>
+  <lastmod>2026-02-03T11:10:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://decarbo.org/en/expertise.html" />
  </url>
  <url>
@@ -137,12 +146,12 @@
  </url>
  <url>
   <loc>https://decarbo.org/histoire.html</loc>
-  <lastmod>2025-06-10T21:46:00Z</lastmod>
+  <lastmod>2026-02-03T11:10:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://decarbo.org/en/history.html" />
  </url>
  <url>
   <loc>https://decarbo.org/lettres.html</loc>
-  <lastmod>2025-06-10T21:46:00Z</lastmod>
+  <lastmod>2026-02-03T11:10:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://decarbo.org/en/letters.html" />
  </url>
  <url>
@@ -151,47 +160,46 @@
  </url>
  <url>
   <loc>https://decarbo.org/media.html</loc>
-  <lastmod>2025-06-10T21:46:00Z</lastmod>
+  <lastmod>2026-02-03T11:10:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://decarbo.org/en/media.html" />
  </url>
  <url>
   <loc>https://decarbo.org/mentions-legales.html</loc>
-  <lastmod>2025-06-10T21:46:00Z</lastmod>
+  <lastmod>2026-02-03T11:10:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://decarbo.org/en/legal-mentions.html" />
  </url>
  <url>
   <loc>https://decarbo.org/pve2050.html</loc>
-  <lastmod>2025-06-11T08:08:00Z</lastmod>
+  <lastmod>2026-02-03T11:10:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://decarbo.org/en/pve2050.html" />
  </url>
  <url>
   <loc>https://decarbo.org/rapport-saf.html</loc>
-  <lastmod>2025-06-11T11:41:00Z</lastmod>
+  <lastmod>2026-02-03T11:11:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://decarbo.org/en/saf-report.html" />
  </url>
  <url>
   <loc>https://decarbo.org/rejoindre.html</loc>
   <lastmod>2025-06-10T21:46:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://decarbo.org/en/join.html" />
  </url>
  <url>
   <loc>https://decarbo.org/spatial.html</loc>
-  <lastmod>2025-06-10T21:46:00Z</lastmod>
+  <lastmod>2026-02-03T11:10:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://decarbo.org/en/spatial.html" />
  </url>
  <url>
   <loc>https://decarbo.org/travaux-divers.html</loc>
-  <lastmod>2025-06-10T21:46:00Z</lastmod>
+  <lastmod>2026-02-03T11:10:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://decarbo.org/en/sundry.html" />
  </url>
  <url>
   <loc>https://decarbo.org/valeurs.html</loc>
-  <lastmod>2025-06-10T21:46:00Z</lastmod>
+  <lastmod>2026-02-03T11:10:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://decarbo.org/en/values.html" />
  </url>
  <url>
   <loc>https://decarbo.org/voir_ailleurs.html</loc>
-  <lastmod>2025-06-10T21:46:00Z</lastmod>
+  <lastmod>2026-02-03T11:10:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://decarbo.org/en/voir_ailleurs.html" />
  </url>
 </urlset>
