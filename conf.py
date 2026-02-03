@@ -155,7 +155,7 @@ NAVIGATION_LINKS = {
           ("/expertise.html",  "Notre expertise"),
           ('/equipe.html',   "L'équipe"),
           ('/amis.html',     "Collectifs amis")),                    "Qui sommes-nous ?"),
-        ("/rejoindre.html",  "Nous rejoindre"),
+        ("/aider.html",  "Nous aider"),
         ("/blog/index.html", "Blog"),
     ),
 
@@ -174,7 +174,7 @@ NAVIGATION_LINKS = {
           ("/en/expertise.html",  "Our expertise"),
           ('/en/team.html',     "Our team"),
           ('/en/friends.html',  "Our friends")),         "Who are we?"),
-        ("/en/join.html",       "Join us"),
+        ("/en/help-us.html",       "Help us"),
         ("/en/blog/index.html", "Blog"),
     ),
 }
