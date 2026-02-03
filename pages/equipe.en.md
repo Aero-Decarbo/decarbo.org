@@ -9,29 +9,31 @@
 
 # Executive committee
 
-__Présidente__ : Marlène De Bank  
-__Vice-président__ : Olivier Del Bucchia
+__President__ : Timon Vicat-Blanc
 
-__Trésorier__ : Jules Richard  
-__Vice-trésorière__ : Tatiana Spassky
+__Vice-president - Aeronautics__ : Loïc Bonifacio
+__Vice-president - Space__ : Julien Doche
 
-__Secrétaire__ : Clément Jarrossay
+__Treasurer__ : Robin Bernard
+
+__Secretary__ : Eliott Marceau
+
 
 # Board of directors
 The association’s board is currently made up of the 12 founding members:
 
+- Robin Bernard
+- Marlène De Bank
 - Loïc Bonifacio
 - Angela Bovo
-- Grégoire Carpentier
-- Marlène de Bank
-- Olivier Del Bucchia
+- David Bourguignon
+- Alban Manuel de Condinguy
 - Julien Doche
 - Clément Jarrossay
 - Eliott Marceau
 - Loïs Miraux
-- Florent Nobelen
-- Jules Richard
-- Tatiana Spassky
+- Florian Sodano
+- Timon Vicat-Blanc
 
 # Members
 We are currently 96 members.

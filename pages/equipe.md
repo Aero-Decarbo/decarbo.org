@@ -9,30 +9,31 @@
 
 # Le bureau 
 
-__Présidente__ : Marlène De Bank  
-__Vice-président__ : Olivier Del Bucchia
+__Président__ : Timon Vicat-Blanc
 
-__Trésorier__ : Jules Richard  
-__Vice-trésorière__ : Tatiana Spassky
+__Vice-président - Aéro__ : Loïc Bonifacio
+__Vice-président - Spatial__ : Julien Doche
 
-__Secrétaire__ : Clément Jarrossay
+__Trésorier__ : Robin Bernard
+
+__Secrétaire__ : Eliott Marceau
 
 
 # Le Conseil d'Administration
 Le CA de l'association est actuellement constitué de 12 membres :
 
+- Robin Bernard
+- Marlène De Bank
 - Loïc Bonifacio
 - Angela Bovo
-- Grégoire Carpentier
-- Marlène de Bank
-- Olivier Del Bucchia
+- David Bourguignon
+- Alban Manuel de Condinguy
 - Julien Doche
 - Clément Jarrossay
 - Eliott Marceau
 - Loïs Miraux
-- Florent Nobelen
-- Jules Richard
-- Tatiana Spassky
+- Florian Sodano
+- Timon Vicat-Blanc
 
 # Les membres
 Nous sommes actuellement 125 membres.
