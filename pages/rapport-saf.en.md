@@ -1,4 +1,4 @@
-.. title: SAF Report
+.. title: Flying without Fossil Fuel
 .. slug: saf-report
 .. date: 2025-06-10 19:23:53 UTC+02:00
 .. tags: 
@@ -8,31 +8,18 @@
 .. type: text
 
 
-The new project of the association's aviation section: a report dedicated to studying the energy supply for aviation.
+Fueled by the abundance of oil, long perceived as inexhaustible, civil aviation has established itself in half a century as one of the most powerful drivers of the internationalization of trade.  
+Today, it holds a dizzying promise: to connect, in a few hours, almost any major hub on the globe, thus creating unprecedented geographical and economic continuity. The operation and development of air routes still rely entirely on fossil fuels, which now places the sector facing a double carbon constraint: on the one hand, the worsening climate change demands a rapid reduction in its emissions; on the other hand, the current geopolitical deadlock and the impending decline of oil threaten its supply.  
+Since our previous [report "Flying in 2050"](link://slug/pve2050), industry has been working on disruptive technologies based on alternative energies such as hydrogen, but has pushed the timeframe well beyond 2035.
 
-⛽️ What fuels for aviation in 2050?  
-⚡️ What resources will be used to produce them?  
-🌳 What constraints and competing uses?  
-📉📈 What scenarios can be mapped out?  
+# Timeline
 
-# Progress schedule:
+Final report release: February 3.
 
-- Since 2024: work by volunteers and one employee
-- June 10, 2025: webinar presenting the interim report
-- End 2025: publication of final report
+Registration link: [https://theshiftproject.org/evenements/pouvoir-voler-sans-petrole/](https://theshiftproject.org/evenements/pouvoir-voler-sans-petrole/)
 
-# Why an interim report?
-
-The idea is to gather feedback, as constructive as possible, between this first publication and a final publication at the end of the year, with the aim of consolidating results and engaging in many discussions on the subject.  
-In the meantime, don't hesitate to [let us know](mailto:contact@decarbo.org) if you're interested in taking part in the proof-reading, or to suggest it to people around you who are interested or for whom you feel it would be relevant.  
-We will need as many people as possible to help disseminate the report and its main messages. So don't hesitate to come back for more information if you'd like to take part in this collective effort.
-
-# Temporary summary of the interim report:
+# Summary
 
 The document begins with a presentation of SAF and the main production pathways and industry sectors, before going on to quantify the volumes produced and expected for each of them, as well as the associated challenges and limitations, in a second section. All these data are then put to use in a third chapter dedicated to scenarios, proposing various projections up to 2050, before a detailed overview of the situation specific to France in the fourth and final section.
 
-Unsurprisingly, at least when one is familiar with the [PVE2050 report](link://slug/pve2050), the trajectories proposed by the sector's institutions (ICAO, ATAG, Waypoint, GIFAS, etc.) are extremely optimistic, not to say utopian. Given the estimated SAF volumes available between now and 2050, maintaining an average annual GHG emission level below that of 2019 over the next 25 years already seems ambitious.
-
-# Download
-
-You will find the interim report (in French) [here](https://docs.google.com/document/d/1uaS_zla9CTanrC9T9EcVJ-kO5DHmrNZf_2glAlnQI5I/edit?usp=sharing)!
+Unsurprisingly, at least when one is familiar with the [Flying in 2050 report](link://slug/pve2050), the trajectories proposed by the sector's institutions (ICAO, ATAG, Waypoint, GIFAS, etc.) are extremely optimistic, not to say utopian. Given the estimated SAF volumes available between now and 2050, maintaining an average annual GHG emission level below that of 2019 over the next 25 years already seems ambitious.

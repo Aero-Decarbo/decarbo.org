@@ -143,7 +143,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/index.html",      "Accueil"),
         ((("/pve2050.html",   "Pouvoir voler en 2050"),
-          ("/rapport-saf.html", "Rapport SAF"),
+          ("/rapport-saf.html", "Pouvoir voler sans pétrole"),
           ('/lettres.html',  "Lettres ouvertes"),
           ('/travaux-divers.html', "Divers")),                      "Nos travaux et publications"),
         ("/contributions.html",  "Nos Contributions"),
@@ -162,7 +162,7 @@ NAVIGATION_LINKS = {
     "en": (
         ("/en/index.html",      "Home"),
         ((("/en/pve2050.html",  "Flying in 2050"),
-		  ("/en/saf-report.html", "SAF report"),
+		  ("/en/saf-report.html", "Flying without Fossil Fuel"),
           ('/en/letters.html',  "Open letters"),
           ('/en/sundry.html',   "Sundry")),              "Our works and publications"),
         ("/en/contributions.html",  "Our Contributions"),
